@@ -9,7 +9,7 @@
 ## Projeto
 
 O objetivo deste desafio é prever a quantidade de ocorrências de acidentes de trânsito do próximo dia. Desta forma deseja-se utilizar a quantidade de ocorrências
-do dia t-1, t-2, t-n para prever o dia t, no qual n é o número máximo de lags (janela temporal).
+do dia t-1, t-2, t-n para prever o dia t, no qual n é o número máximo de lags (janela temporal). Para o projeto, recomendo a leitura do livro 'Introduction to Time Series Forecasting with Python' de Jason Brownlee. 
 
 ## Base de dados:
  - Ocorrências de acidentes de trânsito na cidade de Recife, contendo ocorrências entre os anos de 2015 e 2019;
